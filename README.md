@@ -1,4 +1,11 @@
-## Hi there 👋
+## Ключевые навыки
+
+   **Технологии:** JavaScript, TypeScript, HTML5, CSS3\
+   **Фреймворки & Библиотеки:** React, Next.js, Node.js\
+   **Управление состоянием:** Redux (RTK), MobX, Effector\
+   **Тестирование:** Jest, React Testing Library, TDD, Playwright\
+   **Инструменты:** Git, Docker, Webpack, REST API, OpenAPI, Storybook, Hygen, Jira, Confluence, TeamCity (CI/CD)\
+   **Методологии:** Scrum, Agile
 
 <!--
 **octomine/octomine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
