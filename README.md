@@ -8,6 +8,11 @@
    **Инструменты:** Git, Docker, Webpack, REST API, OpenAPI, Storybook, Hygen, Jira, Confluence, TeamCity (CI/CD)\
    **Методологии:** Scrum, Agile
 
+## Ещё умею делать вот такое
++ Игра [Lode Runner](https://octomine.github.io/YP-lode-runner-game/) на чистом Javascript, графика, анимация, программирование.
++ [Мини-игра](https://octomine.github.io/test-gsap/) на GSAP, анимация, программирование.
+
+
 <!--
 **octomine/octomine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
