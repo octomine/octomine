@@ -3,6 +3,7 @@
    **Технологии:** JavaScript, TypeScript, HTML5, CSS3\
    **Фреймворки & Библиотеки:** React, Next.js, Node.js\
    **Управление состоянием:** Redux (RTK), MobX, Effector\
+   **Стилизация:** Styled Components, Emotion, CSS Modules, SCSS, CSS3\
    **Тестирование:** Jest, React Testing Library, TDD, Playwright\
    **Инструменты:** Git, Docker, Webpack, REST API, OpenAPI, Storybook, Hygen, Jira, Confluence, TeamCity (CI/CD)\
    **Методологии:** Scrum, Agile
