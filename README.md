@@ -20,6 +20,7 @@
 
 + Игра [Lode Runner](https://octomine.github.io/YP-lode-runner-game/) на чистом Javascript, графика, анимация, программирование.
 + [Мини-игра](https://octomine.github.io/test-gsap/) на GSAP, анимация, программирование.
++ Telegram mini app - [Игра Color Clash](https://t.me/color_clash_game_bot)
 
 <!--
 **octomine/octomine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
